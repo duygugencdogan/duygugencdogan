@@ -6,6 +6,7 @@ Recently, I have been working as a data management consultant for 3+ years for a
 But I am such a lucky person that I am taking advantages of working remotely and trying to figure out how I can climb faster the career ladder while I am still a learner.
 
 [![My Skills](https://skillicons.dev/icons?i=py, html,css, postgres, anaconda, azure, stackoverflow, visualstudio, vscode, ai)](https://skillicons.dev)
+
 [![OS](https://skillicons.dev/icons?i=linux, windows)](https://skillicons.dev)
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3UzZDdrdW1uZ2syZ25hcW1rODBmcHltajA2MTI1a2Qzcm1rNzlwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kaq6GnxDlJaBq/giphy.gif?raw=true" width="200"/>
