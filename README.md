@@ -9,6 +9,9 @@ But I am such a lucky person that I am taking advantages of working remotely and
 
 [![OS](https://skillicons.dev/icons?i=linux, windows)](https://skillicons.dev)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/duygugencdogan)
+
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3UzZDdrdW1uZ2syZ25hcW1rODBmcHltajA2MTI1a2Qzcm1rNzlwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kaq6GnxDlJaBq/giphy.gif?raw=true" width="200"/>
 
 The skills I am working on:
