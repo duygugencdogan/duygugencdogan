@@ -5,12 +5,18 @@ I am an aspiring data engineer who loves to learn new technologies and tools.
 Recently, I have been working as a data management consultant for 3+ years for a company based in Istanbul.
 But I am such a lucky person that I am taking advantages of working remotely and trying to figure out how I can climb faster the career ladder while I am still a learner.
 
-[![My Skills](https://skillicons.dev/icons?i=py, html,css, postgres, anaconda, azure, stackoverflow, visualstudio, vscode, ai)](https://skillicons.dev)
+### 🚀 Skills & Tools
 
-[![OS](https://skillicons.dev/icons?i=linux, windows)](https://skillicons.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Talend](https://img.shields.io/badge/Talend-FF6D00?style=flat&logo=talend&logoColor=white)](https://www.talend.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/PL/SQL)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/duygugencdogan)
-
+## I am confused. You continue reading? But why?
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3UzZDdrdW1uZ2syZ25hcW1rODBmcHltajA2MTI1a2Qzcm1rNzlwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kaq6GnxDlJaBq/giphy.gif?raw=true" width="200"/>
 
