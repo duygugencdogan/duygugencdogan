@@ -1,11 +1,12 @@
 ## Hi there, wanna meet me! 👋
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRlbDdkYjc2cG5yMmwwa29rZWhwZ3NpdWgzdjl4N2g3dDZ0OGMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif?raw=true" width="200"/>
+
 I am Duygu. Born and raised in Turkiye. 
 I am an aspiring data engineer who loves to learn new technologies and tools. 
 Recently, I have been working as a data management consultant for 3+ years for a company based in Istanbul.
 But I am such a lucky person that I am taking advantages of working remotely and trying to figure out how I can climb faster the career ladder while I am still a learner.
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRlbDdkYjc2cG5yMmwwa29rZWhwZ3NpdWgzdjl4N2g3dDZ0OGMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif?raw=true" width="200"/>
 
 The skills I am working on:
 - ETL(Extract, Transform, Load), ELT (Extract, Load, Transform)
@@ -23,6 +24,5 @@ The certifications I took:
 - Tableau Consumer 
 
 Little fun facts about me:
-- I write story books for kids. Though I haven't publish any of them yet. All we do is writing in the end.
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW11dXE2MzV1cGZkZG96Y28yNnY3cnNkMnhkaTE2MXpxemFjdnEzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nf9OAG4MUPbsOUDtu4/giphy.gif?raw=true" width="200"/>
+- I write story books for kids. Though I haven't publish any of them yet. 
 - I love illustrating some modern art.
