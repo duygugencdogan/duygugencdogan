@@ -5,7 +5,7 @@ I am an aspiring data engineer who loves to learn new technologies and tools.
 Recently, I have been working as a data management consultant for 3+ years for a company based in Istanbul.
 But I am such a lucky person that I am taking advantages of working remotely and trying to figure out how I can climb faster the career ladder while I am still a learner.
 
-<img src="[https://github.com/duygugencdogan/assets/blob/main/logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoF3CpzHHLvD7WhnsjLM8l4UsUYmLv4UwU8g&s)?raw=true" width="200"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoF3CpzHHLvD7WhnsjLM8l4UsUYmLv4UwU8g&s?raw=true" width="200"/>
 
 The skills I am working on:
 - ETL(Extract, Transform, Load), ELT (Extract, Load, Transform)
