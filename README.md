@@ -5,7 +5,9 @@ I am an aspiring data engineer who loves to learn new technologies and tools.
 Recently, I have been working as a data management consultant for 3+ years for a company based in Istanbul.
 But I am such a lucky person that I am taking advantages of working remotely and trying to figure out how I can climb faster the career ladder while I am still a learner.
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHYxazEydDBlbjZuaDFsNDlsN256ZWZhZGpoenlxdDNhdnpmaWJ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif?raw=true" width="200"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHYxazEydDBlbjZuaDFsNDlsN256ZWZhZGpoenlxdDNhdnpmaWJ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif?raw=true" width="400"/>
+
+
 
 ### 🚀 Skills & Tools
 
