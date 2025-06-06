@@ -1,13 +1,27 @@
-## Hi there 👋
+## Hi there, wanna meet me! 👋
 
-<!--
-**duygugencdogan/duygugencdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Duygu. Born and raised in Turkiye. 
+I am an aspiring data engineer who loves to learn new technologies and tools. 
+Recently, I have been working as a data management consultant for 3+ years for a company based in Istanbul.
+But I am such a lucky person that I am taking advantages of working remotely and trying to figure out how I can climb faster the career ladder while I am still a learner.
 
-Here are some ideas to get you started:
+<img src="[https://github.com/duygugencdogan/assets/blob/main/logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoF3CpzHHLvD7WhnsjLM8l4UsUYmLv4UwU8g&s)?raw=true" width="200"/>
 
-🔭 I’m currently working on ETL
-- 🌱 I’m currently learning ...
+The skills I am working on:
+- ETL(Extract, Transform, Load), ELT (Extract, Load, Transform)
+- Relational Databases (MSSQL, Postgresql, PL/SQL ...), Non-relational databases
+- Data Integration(Mostly Talend)
+- Data Monitoring
+- Task Scheduling (Crontab, Task manager...)
+- Scripting on Linux
+- Cloud platforms (AWS, Azure ...)
 
-📫 How to reach me: www.linkedin.com/in/duygugencdogan
+The certifications I took:
+- Microsoft Azure Data EngineerAssociate 
+- Microsoft Azure AI Fundamentals 
+- Tableau Data LiteracyforAll 
+- Tableau Consumer 
 
--->
+Little fun facts about me:
+- I write story books for kids. Though I haven't publish any of them yet.
+- I love illustrating some modern art & traditional anatolian carpet motifs. 
