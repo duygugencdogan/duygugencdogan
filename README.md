@@ -23,5 +23,6 @@ The certifications I took:
 - Tableau Consumer 
 
 Little fun facts about me:
-- I write story books for kids. Though I haven't publish any of them yet.
+- I write story books for kids. Though I haven't publish any of them yet. All we do is writing in the end.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW11dXE2MzV1cGZkZG96Y28yNnY3cnNkMnhkaTE2MXpxemFjdnEzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nf9OAG4MUPbsOUDtu4/giphy.gif?raw=true" width="200"/>
 - I love illustrating some modern art.
