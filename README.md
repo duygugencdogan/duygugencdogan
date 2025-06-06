@@ -15,7 +15,7 @@ But I am such a lucky person that I am taking advantages of working remotely and
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/PL/SQL)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-[![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=flat&logo=dataiku&logoColor=white)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+[![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=flat)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
