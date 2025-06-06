@@ -9,8 +9,8 @@ But I am such a lucky person that I am taking advantages of working remotely and
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mssql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Talend](https://img.shields.io/badge/Talend-FF6D00?style=flat&logo=talend&logoColor=white)](https://www.talend.com/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)](https://en.wikipedia.org/wiki/PL/SQL)
