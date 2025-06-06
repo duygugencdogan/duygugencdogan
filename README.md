@@ -1,7 +1,5 @@
 ## Hi there, wanna meet me! 👋
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRlbDdkYjc2cG5yMmwwa29rZWhwZ3NpdWgzdjl4N2g3dDZ0OGMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif?raw=true" width="200"/>
-
 I am Duygu. Born and raised in Turkiye. 
 I am an aspiring data engineer who loves to learn new technologies and tools. 
 Recently, I have been working as a data management consultant for 3+ years for a company based in Istanbul.
