@@ -24,4 +24,4 @@ The certifications I took:
 
 Little fun facts about me:
 - I write story books for kids. Though I haven't publish any of them yet.
-- I love illustrating some modern art & traditional anatolian carpet motifs. 
+- I love illustrating some modern art.
