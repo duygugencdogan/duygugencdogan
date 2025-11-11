@@ -45,4 +45,4 @@ The certifications I took:
 
 Little fun facts about me:
 - I write story books for kids. Though I haven't publish any of them yet. 
-- I love illustrating some modern art.
+- I am illustrating some modern art that never shown to anyone.
